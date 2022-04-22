@@ -11,5 +11,3 @@ My Name is Maryliz karumba. I am a software engineer.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love coding and solving problems.
 -->
-https://www.linkedin.com/in/maryliz-karumba-952641178/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B2jYvdRk6RemStGhcMZNmFQ%3D%3D
-https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com&service=mail
