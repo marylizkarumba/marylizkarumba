@@ -2,17 +2,12 @@
 
 ###              Hi there 👋
 My Name is Maryliz karumba. I am a software engineer.
-<!--
-**marylizkarumba/marylizkarumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on C, Python,Javascript,web jquery,Mysql,HTML/CSS & React
 - 🌱 I’m currently learning Low level programming and algorithms
 - 👯 I’m looking to collaborate on projects with other software engineers
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: they/them
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I love coding and solving problems.
 -->
