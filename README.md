@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I love coding and solving problems.
 -->
-![software engineer](https://user-images.githubusercontent.com/99593138/164700807-88f5e4d0-2d5c-4b8e-979c-e21a2b7eb293.jpg)
