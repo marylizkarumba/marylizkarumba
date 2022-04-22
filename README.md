@@ -1,8 +1,7 @@
-### Hi there 👋
-My Name is Maryliz karumba. I am a software engineer.
 ![ig](https://user-images.githubusercontent.com/99593138/164700982-e9bc948a-26c6-4944-af7b-559ae6bbb08b.jpg)
 
-
+###              Hi there 👋
+My Name is Maryliz karumba. I am a software engineer.
 <!--
 **marylizkarumba/marylizkarumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
