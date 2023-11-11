@@ -2,7 +2,7 @@
 
 #  Hi there 👋
 My Name is Maryliz karumba. I am a Front-End Software Developer.
-- 🔭 I’m currently working on C, Python,Javascript,web jquery,Mysql,HTML/CSS & React
+- 🔭 I’m currently working on C, Python, Javascript, HTML/CSS & React
 - 🌱 I’m currently learning Front-End at African Leadership University (ALX).
 - 👯 I’m looking to collaborate on projects with other software engineers
 - 🤔 I’m looking for help with ...
