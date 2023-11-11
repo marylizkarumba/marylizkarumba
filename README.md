@@ -57,5 +57,5 @@ My Name is Maryliz karumba. I am a Front-End Software Developer.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marylizkarumba&" alt="marylizkarumba" /></p>
 
-I LOVE THIS 
+I LOVE THIS :heart_eyes: :heart_on_fire:
 
